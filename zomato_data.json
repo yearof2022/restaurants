@@ -1,0 +1,1728 @@
+[
+  {
+    "csv_key": "Nutcracker|Mumbai",
+    "matched": true,
+    "res_id": 20296387,
+    "name": "The Nutcracker",
+    "rating": 4.3,
+    "votes": 1335,
+    "image": "https://b.zmtcdn.com/data/pictures/7/20296387/c35994d8aba5a872588fa9d9f8e294b0_o2_featured_v2.jpg",
+    "eta": "40–45 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Ananda Stall, Andheri|Mumbai",
+    "matched": true,
+    "res_id": 19327245,
+    "name": "Anand Stall",
+    "rating": 4.1,
+    "votes": 4859,
+    "image": "https://b.zmtcdn.com/data/pictures/5/19327245/76ee2da814a57e6a371fdbb063e35245_o2_featured_v2.jpg",
+    "eta": "45–50 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Ram Ashray and Madras Cafe and Mysore Cafe, Matunga|Mumbai",
+    "matched": true,
+    "res_id": 32223,
+    "name": "Ramashraya - Since 1939",
+    "rating": 4.1,
+    "votes": 20849,
+    "image": "https://b.zmtcdn.com/data/pictures/3/32223/60c4f1bccb3bae74fb482a42e6b2c73f_o2_featured_v2.jpg",
+    "eta": "40–45 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Leopold Cafe|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Butterfly High|Mumbai",
+    "matched": true,
+    "res_id": 18707459,
+    "name": "Butterfly High",
+    "rating": 4.1,
+    "votes": 1647,
+    "image": "https://b.zmtcdn.com/data/pictures/9/18707459/55bc312ba4fd2994ab47f5c84a648a80_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Hitchki|Mumbai",
+    "matched": true,
+    "res_id": 18591040,
+    "name": "Hitchki",
+    "rating": 4.0,
+    "votes": 6104,
+    "image": "https://b.zmtcdn.com/data/pictures/0/18591040/e1b12bcec57ef14f14f06e8c28a0bfeb_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Capital Social|Mumbai",
+    "matched": true,
+    "res_id": 18286420,
+    "name": "Capital Social",
+    "rating": 4.1,
+    "votes": 6836,
+    "image": "https://b.zmtcdn.com/data/pictures/0/18286420/c45860b3492fe9d26fef073c142aefb1_o2_featured_v2.jpg",
+    "eta": "35–40 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Rude Lounge, Powai|Mumbai",
+    "matched": true,
+    "res_id": 40410,
+    "name": "Rude Lounge",
+    "rating": 4.0,
+    "votes": 1807,
+    "image": "https://b.zmtcdn.com/data/pictures/0/40410/8539c094a5cfa6eb22399160da51414b_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Lord of the drinks|Mumbai",
+    "matched": true,
+    "res_id": 18616378,
+    "name": "Lord Of The Drinks",
+    "rating": 3.5,
+    "votes": 1,
+    "image": "https://b.zmtcdn.com/data/pictures/8/18616378/e92cd6019f1e5edaa8e22c3467433339_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Powai Social|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Episode One, Powai|Mumbai",
+    "matched": true,
+    "res_id": 19268542,
+    "name": "Episode One, Powai",
+    "rating": 4.0,
+    "votes": 714,
+    "image": "https://b.zmtcdn.com/data/pictures/2/19268542/c0cc4974f1519d0dae9164c40b163e9d_o2_featured_v2.jpg",
+    "eta": "70–75 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "The Finch|Mumbai",
+    "matched": true,
+    "res_id": 18530336,
+    "name": "The Finch, Powai",
+    "rating": 3.8,
+    "votes": 828,
+    "image": "https://b.zmtcdn.com/data/pictures/6/18530336/bdf38d9fd7634f11e5e90c40f6e6d898_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Shy, Chembur|Mumbai",
+    "matched": true,
+    "res_id": 20566509,
+    "name": "Shy, Chembur",
+    "rating": 3.9,
+    "votes": 648,
+    "image": "https://b.zmtcdn.com/",
+    "eta": "50–55 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Bombay brassiere|Mumbai",
+    "matched": true,
+    "res_id": 20567291,
+    "name": "Bombay Brasserie",
+    "rating": 0,
+    "votes": 0,
+    "image": "https://b.zmtcdn.com/data/brand_creatives/logos/d2114f2affebbdca0f35ce99172789c2_1759212024.png",
+    "eta": "",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Amazonia, BKC|Mumbai",
+    "matched": true,
+    "res_id": 20566183,
+    "name": "Amazonia, Bandra Kurla Complex",
+    "rating": 4.0,
+    "votes": 9,
+    "image": "https://b.zmtcdn.com/data/pictures/3/20566183/9a255df7d84649d89972de6757e0f0d0_o2_featured_v2.jpg",
+    "eta": "40–45 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Joey's Pizza|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "1441 Pizzeria|Mumbai",
+    "matched": true,
+    "res_id": 19575689,
+    "name": "1441 Pizzeria",
+    "rating": 4.0,
+    "votes": 5055,
+    "image": "https://b.zmtcdn.com/data/pictures/9/19575689/06d046b94c05e0d17e59d44dca0c4d92_o2_featured_v2.jpg",
+    "eta": "30–35 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Versova Social|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "9 se 12, Vashi|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Flamingo, Navi Mumbai|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Hard Rock Cafe, Seawoods|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Poco Loco, Grant Road|Mumbai",
+    "matched": true,
+    "res_id": 19421060,
+    "name": "Poco Loco",
+    "rating": 4.6,
+    "votes": 348,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/19189119/741c865a010996278da1cf54ff895831_o2_featured_v2.jpg",
+    "eta": "50–55 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Eve, Powai & Worli|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Pop Tates, Kamala Mills|Mumbai",
+    "matched": true,
+    "res_id": 19565983,
+    "name": "Pop Tate's",
+    "rating": 4.3,
+    "votes": 1465,
+    "image": "https://b.zmtcdn.com/data/pictures/3/19565983/c47fc824e912c939f281860e476835c0_o2_featured_v2.jpg",
+    "eta": "40–45 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Millo, Kamala Mills|Mumbai",
+    "matched": true,
+    "res_id": 20517570,
+    "name": "Millo, Lower Parel",
+    "rating": 4.4,
+    "votes": 171,
+    "image": "https://b.zmtcdn.com/data/pictures/0/20517570/b809000dcfd8089fcb4cf6bc61a3f94c_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Bombay Canteen|Mumbai",
+    "matched": true,
+    "res_id": 16541542,
+    "name": "The Bombay Canteen, Lower Parel",
+    "rating": 4.5,
+    "votes": 744,
+    "image": "https://b.zmtcdn.com/data/pictures/2/16541542/a9ab3128fd602a60ff24ad9a73107ca0_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "The Beer Cafe, Churchgate|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Bombay Martini|Mumbai",
+    "matched": true,
+    "res_id": 20268297,
+    "name": "Bombay Martini, Powai",
+    "rating": 3.9,
+    "votes": 101,
+    "image": "https://b.zmtcdn.com/data/pictures/7/20268297/3ec94e614278f8f9bc0026de8a32f281_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Brewdog|Mumbai",
+    "matched": true,
+    "res_id": 20210730,
+    "name": "Brewdog",
+    "rating": 0,
+    "votes": 0,
+    "image": "https://b.zmtcdn.com/data/pictures/0/20210730/781cae774f6ed46384e61443b6668bb5_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Bombay Cartel|Mumbai",
+    "matched": true,
+    "res_id": 20575304,
+    "name": "The Bombay Cartel",
+    "rating": 3.9,
+    "votes": 714,
+    "image": "https://b.zmtcdn.com/data/pictures/4/20575304/fed0a7b7221e4eded5b913e6d1834d37_o2_featured_v2.jpg",
+    "eta": "55–60 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Kyma|Mumbai",
+    "matched": true,
+    "res_id": 20001295,
+    "name": "Kyma",
+    "rating": 4.2,
+    "votes": 961,
+    "image": "https://b.zmtcdn.com/data/pictures/5/20001295/2170baf2623f6dc57b7ef0fdcbd8f0fc_o2_featured_v2.jpg",
+    "eta": "35–40 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "All elements|Mumbai",
+    "matched": true,
+    "res_id": 18598152,
+    "name": "All Elements, Khar",
+    "rating": 4.0,
+    "votes": 1680,
+    "image": "https://b.zmtcdn.com/data/pictures/2/18598152/47e7852f39ea78a15ea81c550ba90b36_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Banyan tree cafe|Mumbai",
+    "matched": true,
+    "res_id": 20243932,
+    "name": "Banyan Tree Cafe, Fort",
+    "rating": 4.5,
+    "votes": 568,
+    "image": "https://b.zmtcdn.com/data/pictures/2/20243932/fb4bf30b834e97509b5cb2db3e432c6e_o2_featured_v2.jpg",
+    "eta": "75–80 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Cafe Ishvara|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Asilo, St. Regis|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Magari, Andheri|Mumbai",
+    "matched": true,
+    "res_id": 20040360,
+    "name": "Magari",
+    "rating": 3.9,
+    "votes": 340,
+    "image": "https://b.zmtcdn.com/data/pictures/0/20040360/5f5e39e42cc893e0654d33b0c6e102a5_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Shelter, Versova|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Soho House|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Napoli by Shatranj|Mumbai",
+    "matched": true,
+    "res_id": 20756196,
+    "name": "Napoli By Shatranj, Pali Hill, Bandra West",
+    "rating": 4.1,
+    "votes": 123,
+    "image": "https://b.zmtcdn.com/",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Tori|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Lyla|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Mag St. Cafe, Colaba|Mumbai",
+    "matched": true,
+    "res_id": 20997562,
+    "name": "Mag St.",
+    "rating": 4.4,
+    "votes": 1585,
+    "image": "https://b.zmtcdn.com/data/pictures/2/20997562/a535491c926c55313571336a7fa7b7e9_o2_featured_v2.jpg",
+    "eta": "40–45 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Crazy Craft|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "La Panthera|Mumbai",
+    "matched": true,
+    "res_id": 21382104,
+    "name": "La Panthera",
+    "rating": 4.1,
+    "votes": 99,
+    "image": "https://b.zmtcdn.com/data/pictures/4/21382104/6829f444374ad362b22be3956b403b20_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Charlee, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 21110761,
+    "name": "Charlee, Santacruz West",
+    "rating": 0,
+    "votes": 0,
+    "image": "https://b.zmtcdn.com/",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Gaylord|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Luuma House, Juhu|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Mokai, Bandra|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Ness|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Luv|Mumbai",
+    "matched": true,
+    "res_id": 21442229,
+    "name": "Luv Restaurant, Andheri Lokhandwala, Andheri West",
+    "rating": 4.4,
+    "votes": 122,
+    "image": "https://b.zmtcdn.com/",
+    "eta": "70–75 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Bombay Daak|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Masa Bakery|Mumbai",
+    "matched": true,
+    "res_id": 21562482,
+    "name": "Masa Bakery",
+    "rating": 3.8,
+    "votes": 75,
+    "image": "https://b.zmtcdn.com/data/pictures/2/21562482/c4d5a58fa8eb702c9f3f67d654e8bdef_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Flurrys, Colaba|Mumbai",
+    "matched": true,
+    "res_id": 21395011,
+    "name": "Flurys",
+    "rating": 4.1,
+    "votes": 144,
+    "image": "https://b.zmtcdn.com/data/pictures/1/21395011/e0c6055197e4205ea436d260695562d2_o2_featured_v2.jpg",
+    "eta": "35–40 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Native|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Greenr|Mumbai",
+    "matched": true,
+    "res_id": 21223254,
+    "name": "Greenr Cafe",
+    "rating": 4.2,
+    "votes": 499,
+    "image": "https://b.zmtcdn.com/data/pictures/4/21223254/0d2a56f4c9137314b481d21aa440874e_o2_featured_v2.jpg",
+    "eta": "65–70 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Iconic Bakery|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Koa Bar, Juhu|Mumbai",
+    "matched": true,
+    "res_id": 20716079,
+    "name": "KOA - Cafe & Bar",
+    "rating": 4.0,
+    "votes": 498,
+    "image": "https://b.zmtcdn.com/data/pictures/9/20716079/69ef69d27b0bcbec7b846be66d841e9a_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Silk Road Company|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Sixteen 33|Mumbai",
+    "matched": true,
+    "res_id": 21494377,
+    "name": "Sixteen 33 Eatery And Cocktail Bar, Pali Hill, Bandra West",
+    "rating": 3.8,
+    "votes": 19,
+    "image": "https://b.zmtcdn.com/data/pictures/7/21494377/7a3e7454fd8744318d75d470adb9b8e4_o2_featured_v2.jpg",
+    "eta": "45–50 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Eddie’s Cafe and Bar|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Bumi Pura|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Kerala Quarters|Mumbai",
+    "matched": true,
+    "res_id": 21519091,
+    "name": "Kerala Quarters, Lower Parel",
+    "rating": 4.1,
+    "votes": 371,
+    "image": "https://b.zmtcdn.com/data/pictures/1/21519091/f53630cba9a7a1a2dc29f01588d61145_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Morii Cafe|Mumbai",
+    "matched": true,
+    "res_id": 20576835,
+    "name": "Morii Cafe",
+    "rating": 4.3,
+    "votes": 1138,
+    "image": "https://b.zmtcdn.com/data/pictures/5/20576835/40a1a47e51a60c0cdae05fb53bc5b632_o2_featured_v2.jpg",
+    "eta": "45–50 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Saz|Mumbai",
+    "matched": true,
+    "res_id": 20199801,
+    "name": "SAZ American Brasserie",
+    "rating": 4.3,
+    "votes": 615,
+    "image": "https://b.zmtcdn.com/data/dish_photos/ee1/dd402e95d7c19948c4b6ccd03b44eee1.jpeg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Era|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Nandan Coffee House|Mumbai",
+    "matched": true,
+    "res_id": 20967916,
+    "name": "Nandan Coffee",
+    "rating": 4.3,
+    "votes": 82,
+    "image": "https://b.zmtcdn.com/data/pictures/6/20967916/3b947eb13dfed358f44186d97e84a043_o2_featured_v2.jpg",
+    "eta": "25–30 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "The Table|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Pimlico|Pune",
+    "matched": true,
+    "res_id": 19153002,
+    "name": "Pimlico",
+    "rating": 4.0,
+    "votes": 4596,
+    "image": "https://b.zmtcdn.com/data/pictures/2/19153002/04b7e806d192962ab089cc0345563b4c_o2_featured_v2.jpg",
+    "eta": "40–45 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Chafa|Pune",
+    "matched": true,
+    "res_id": 18730256,
+    "name": "Chafa Cafe And Studio",
+    "rating": 4.3,
+    "votes": 4129,
+    "image": "https://b.zmtcdn.com/data/pictures/6/18730256/df80a218cf5dd13c2e04669896fd8989_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "French Window Patisserie|Pune",
+    "matched": true,
+    "res_id": 6504977,
+    "name": "The French Window Patisserie",
+    "rating": 4.4,
+    "votes": 3227,
+    "image": "https://b.zmtcdn.com/data/pictures/7/6504977/6ac149a220a033cae4ad0d5c3f2eb56d_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Sassy Spoon|Pune",
+    "matched": true,
+    "res_id": 18417624,
+    "name": "The Sassy Spoon",
+    "rating": 4.3,
+    "votes": 1991,
+    "image": "https://b.zmtcdn.com/data/pictures/4/18417624/1ff04cfa14a17da00acf864d170c30d3_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Great State Dive|Pune",
+    "matched": true,
+    "res_id": 20033076,
+    "name": "Great State Dive, Koregaon Park",
+    "rating": 4.0,
+    "votes": 7,
+    "image": "https://b.zmtcdn.com/data/pictures/6/20033076/fb46580e110e8ed7596a8e7c39cfd8c8_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "All Day Daily|Pune",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "German Bakery|Pune",
+    "matched": true,
+    "res_id": 13393,
+    "name": "German Bakery",
+    "rating": 4.2,
+    "votes": 5957,
+    "image": "https://b.zmtcdn.com/data/pictures/3/13393/31ebe2ef598f2d09b9441f41cb444ac0_o2_featured_v2.jpg",
+    "eta": "45–50 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Chaurahe Ka Paar|Pune",
+    "matched": true,
+    "res_id": 20331284,
+    "name": "Chaurahe Ke Paar, Koregaon Park",
+    "rating": 0,
+    "votes": 0,
+    "image": "https://b.zmtcdn.com/data/pictures/4/20331284/9507d219f497f0e6dbbd5f46a0be732c_featured_v2.jpg?crop=200%3A200%3B%2A%2C%2A&fit=around%7C200%3A200",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Elephant and Co|Pune",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Effingut|Pune",
+    "matched": true,
+    "res_id": 6504409,
+    "name": "Effingut",
+    "rating": 4.1,
+    "votes": 1041,
+    "image": "https://b.zmtcdn.com/data/pictures/9/6504409/54243daedffda637970635d1ee861006_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Toscano’s|Pune",
+    "matched": true,
+    "res_id": 19241539,
+    "name": "Toscano",
+    "rating": 4.2,
+    "votes": 7474,
+    "image": "https://b.zmtcdn.com/data/pictures/9/19241539/53575ebb735ed1ba6aac1fca3c7c5d7a_o2_featured_v2.jpg",
+    "eta": "40–45 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Dhaba Shaba|Pune",
+    "matched": true,
+    "res_id": 19004747,
+    "name": "Dhaba Shaba Veg Bistro, Koregaon Park",
+    "rating": 4.3,
+    "votes": 6216,
+    "image": "https://b.zmtcdn.com/data/pictures/7/19004747/a6d73b9d1ba282b2a2fbb53341d9d1ab_o2_featured_v2.jpg",
+    "eta": "50–55 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Murphies|Pune",
+    "matched": true,
+    "res_id": 20900020,
+    "name": "Murphies - Bistro and Bar",
+    "rating": 4.2,
+    "votes": 519,
+    "image": "https://b.zmtcdn.com/data/pictures/0/20900020/e5e5f264ebe6490f946aae65702a52a8_o2_featured_v2.jpg",
+    "eta": "60–65 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Kwality|Pune",
+    "matched": true,
+    "res_id": 18526247,
+    "name": "Kwality Family Resto Bar",
+    "rating": 4.1,
+    "votes": 3627,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/18526247/d369dacdfeaa6c82850099f766fd5dc9_o2_featured_v2.jpg",
+    "eta": "20–25 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Moshi Moshi|Pune",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Talli|Pune",
+    "matched": true,
+    "res_id": 19023395,
+    "name": "Talli",
+    "rating": 3.1,
+    "votes": 22,
+    "image": "https://b.zmtcdn.com/data/pictures/5/19023395/90047707aee861174909303fea6a15a3_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Raasta|Pune",
+    "matched": true,
+    "res_id": 6505653,
+    "name": "Raasta Cafe, Rasta Peth",
+    "rating": 4.4,
+    "votes": 152,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/6505653/937508b78322fc653d9ab6772f01d6f9_o2_featured_v2.jpg",
+    "eta": "65–70 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "High Spirits|Pune",
+    "matched": true,
+    "res_id": 10627,
+    "name": "High Spirits, Mundhwa",
+    "rating": 4.2,
+    "votes": 46,
+    "image": "https://b.zmtcdn.com/data/pictures/7/10627/526f43b78eb3aaf46fb1b71c951ea1c3_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Euphoria - Hilton|Pune",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Butter brews|Pune",
+    "matched": true,
+    "res_id": 19616544,
+    "name": "Butter Brews, Koregaon Park",
+    "rating": 4.3,
+    "votes": 1795,
+    "image": "https://b.zmtcdn.com/data/pictures/4/19616544/9c530580290ed4b23f583ad3f218dc86_o2_featured_v2.jpg",
+    "eta": "35–40 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Supriya|Pune",
+    "matched": true,
+    "res_id": 12607,
+    "name": "Supriya Restaurant, Camp Area",
+    "rating": 4.4,
+    "votes": 11699,
+    "image": "https://b.zmtcdn.com/data/pictures/7/12607/8d85560d65bb8fc068a02954bba9306b_o2_featured_v2.jpg",
+    "eta": "45–50 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Cult terra|Pune",
+    "matched": true,
+    "res_id": 19068689,
+    "name": "The Cult - Terra",
+    "rating": 3.9,
+    "votes": 1248,
+    "image": "https://b.zmtcdn.com/data/pictures/9/19068689/431c9ae74cfaa3e96ac1283225e701d1_o2_featured_v2.jpg",
+    "eta": "45–50 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "The unicorn house|Pune",
+    "matched": true,
+    "res_id": 19655737,
+    "name": "Unicorn House, Kalyani Nagar",
+    "rating": 0,
+    "votes": 0,
+    "image": "https://b.zmtcdn.com/data/pictures/7/19655737/dbead6926bf2c323bc62ee5d7a6672b4_featured_v2.jpg?crop=200%3A200%3B%2A%2C%2A&fit=around%7C200%3A200",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Elrow, Pune|Pune",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Soy como soy|Pune",
+    "matched": true,
+    "res_id": 20304308,
+    "name": "Soy Como Soy, Koregaon Park",
+    "rating": 4.1,
+    "votes": 945,
+    "image": "https://b.zmtcdn.com/data/pictures/8/20304308/9dc34d8a75707f06d6dd12405cf4c8bf_o2_featured_v2.jpg",
+    "eta": "40–45 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Fyole Cafe|Pune",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Le palasir|Pune",
+    "matched": true,
+    "res_id": 13231,
+    "name": "Le Plaisir, Deccan Gymkhana",
+    "rating": 4.5,
+    "votes": 14165,
+    "image": "https://b.zmtcdn.com/data/pictures/1/13231/cdc69309529a871fa4bbc77ef29a98d7_o2_featured_v2.jpg",
+    "eta": "65–70 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Ground Up|Pune",
+    "matched": true,
+    "res_id": 19695814,
+    "name": "Ground Up Cafe And Fast Food, Wanowrie",
+    "rating": 3.8,
+    "votes": 21,
+    "image": "https://b.zmtcdn.com/data/pictures/4/19695814/b6d5a30f5a34afc7478c77c5bcd07444_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Cafe Goodluck|Pune",
+    "matched": true,
+    "res_id": 10011,
+    "name": "Cafe Goodluck, Deccan Gymkhana",
+    "rating": 4.2,
+    "votes": 45103,
+    "image": "https://b.zmtcdn.com/data/pictures/1/10011/5da581915bf988817835ba0d41909ed4_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Third Wave Coffee, Kalyani Nagar|Pune",
+    "matched": true,
+    "res_id": 20411618,
+    "name": "Third Wave Coffee",
+    "rating": 4.1,
+    "votes": 1123,
+    "image": "https://b.zmtcdn.com/data/pictures/8/20411618/a73656b3e85f5f71af7bae82ad09f9e5_o2_featured_v2.jpg",
+    "eta": "30–35 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "The Flourworks|Pune",
+    "matched": true,
+    "res_id": 11882,
+    "name": "The Flour Works",
+    "rating": 4.2,
+    "votes": 3210,
+    "image": "https://b.zmtcdn.com/data/pictures/2/11882/0dba8be62eddb7c828ac1ba8148cb71d_o2_featured_v2.jpg",
+    "eta": "30–35 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "TOIT, Pune|Pune",
+    "matched": true,
+    "res_id": 18952058,
+    "name": "Toit",
+    "rating": 4.2,
+    "votes": 3089,
+    "image": "https://b.zmtcdn.com/data/dish_photos/790/364cb7a6ca226693ee160d1c490df790.jpg",
+    "eta": "25–30 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "One O Eight Cafe|Pune",
+    "matched": true,
+    "res_id": 6504459,
+    "name": "One O Eight Cafe",
+    "rating": 4.4,
+    "votes": 595,
+    "image": "https://b.zmtcdn.com/data/pictures/9/6504459/9a2ae7022684b907543a76b3b7b6c43f_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Zen Cafe|Pune",
+    "matched": true,
+    "res_id": 18803299,
+    "name": "Zen Cafe",
+    "rating": 4.4,
+    "votes": 1603,
+    "image": "https://b.zmtcdn.com/data/pictures/9/18803299/ae8891dd939022d57981b6b0d601518c_o2_featured_v2.jpeg",
+    "eta": "45–50 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Grandmama’s Cafe|Pune",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Huber & Holly|Pune",
+    "matched": true,
+    "res_id": 19034129,
+    "name": "Huber & Holly",
+    "rating": 4.5,
+    "votes": 5213,
+    "image": "https://b.zmtcdn.com/data/pictures/9/19034129/ee32690350cd2522758ed79181ca1232_o2_featured_v2.jpg",
+    "eta": "45–50 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "The Local Cafe, GK|Delhi",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Basque by Breve|Mumbai",
+    "matched": true,
+    "res_id": 21875676,
+    "name": "Basque By Brevé, Reclamation, Bandra West",
+    "rating": 4.3,
+    "votes": 64,
+    "image": "https://b.zmtcdn.com/data/pictures/6/21875676/3b17767d20dcb4d4b73f1b7daa8aafb2_o2_featured_v2.jpg",
+    "eta": "30–35 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Ocho, Bandra|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Bandra Born|Mumbai",
+    "matched": true,
+    "res_id": 21052783,
+    "name": "Bandra Born, Bandstand, Bandra West",
+    "rating": 0,
+    "votes": 0,
+    "image": "https://b.zmtcdn.com/data/pictures/3/21052783/c52978237b9ad1a05ff415c1ba90227f_featured_v2.jpg?crop=200%3A200%3B%2A%2C%2A&fit=around%7C200%3A200",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "PaPaYa, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 18619718,
+    "name": "Pa Pa Ya",
+    "rating": 3.9,
+    "votes": 2168,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/17935463/ed441027a0c716810a7d8399030d40fd_o2_featured_v2.jpg",
+    "eta": "30–35 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Masque|Mumbai",
+    "matched": true,
+    "res_id": 18378234,
+    "name": "Masque, Mahalaxmi",
+    "rating": 0,
+    "votes": 1,
+    "image": "https://b.zmtcdn.com/data/pictures/4/18378234/106cb4af044593f6c8dc0803b91cdb4a_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Subko Coffee Roasters, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 22537086,
+    "name": "Subko Specialty Coffee Roasters And Bakehouse, Santacruz East",
+    "rating": 4.3,
+    "votes": 48,
+    "image": "https://b.zmtcdn.com/data/pictures/6/22537086/ab287ca6ef1537123f55084a79bd27e6_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Veronicas, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 21432852,
+    "name": "Veronica's",
+    "rating": 4,
+    "votes": 73,
+    "image": "https://b.zmtcdn.com/data/pictures/2/21432852/206b7c7a1acaf90bd2a151458f932517_o2_featured_v2.jpg",
+    "eta": "35–40 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Indian Accent|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Megumi, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 21033756,
+    "name": "Megumi, Santacruz West",
+    "rating": 4.1,
+    "votes": 56,
+    "image": "https://b.zmtcdn.com/data/pictures/6/21033756/28c6c168e6444cd4b7601ee5f5cfcb0d_o2_featured_v2.jpg",
+    "eta": "45–50 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "O, Pedro|Mumbai",
+    "matched": true,
+    "res_id": 18583679,
+    "name": "O Pedro",
+    "rating": 4.4,
+    "votes": 931,
+    "image": "https://b.zmtcdn.com/data/pictures/9/18583679/39e1b3fca00f55448d582d76dcb715f3_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Permit Rooms|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Boojee Cafe|Mumbai",
+    "matched": true,
+    "res_id": 19119928,
+    "name": "Boojee Cafe",
+    "rating": 4.3,
+    "votes": 18125,
+    "image": "https://b.zmtcdn.com/data/pictures/8/19119928/4d3221e074e68ecd285cc940fcbecc2d_o2_featured_v2.jpg",
+    "eta": "50–55 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Prithvi Cafe|Mumbai",
+    "matched": true,
+    "res_id": 36403,
+    "name": "Prithvi Cafe",
+    "rating": 4.2,
+    "votes": 19417,
+    "image": "https://b.zmtcdn.com/data/pictures/3/36403/dcf896cc663fc567fc9c363f74052f57_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Izumi, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 19076232,
+    "name": "Izumi, Linking Road, Bandra West",
+    "rating": 4.5,
+    "votes": 3991,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19076232/cde165fcf87172f391f381df10823614_o2_featured_v2.jpg",
+    "eta": "50–55 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Omo|Delhi",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "KMC, Fort|Mumbai",
+    "matched": true,
+    "res_id": 20378599,
+    "name": "KMC Bar & Bistro, Fort",
+    "rating": 4,
+    "votes": 22,
+    "image": "https://b.zmtcdn.com/data/pictures/9/20378599/180c38f008bcf1ef133439d890823639_o2_featured_v2.jpg",
+    "eta": "80–85 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Gateway Taproom|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Elementaria Bakery|Mumbai",
+    "matched": true,
+    "res_id": 18608552,
+    "name": "Elementaria Bakery Cafe",
+    "rating": 4.2,
+    "votes": 3639,
+    "image": "https://b.zmtcdn.com/data/pictures/2/18608552/24af33ade73080f040e468dfe7e92b00_o2_featured_v2.jpg",
+    "eta": "35–40 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Yautcha, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 39675,
+    "name": "Yauatcha, Bandra Kurla Complex",
+    "rating": 4.5,
+    "votes": 2971,
+    "image": "https://b.zmtcdn.com/data/pictures/5/39675/40f01ee70aa00ac3a78ba534b02fba55_o2_featured_v2.jpg",
+    "eta": "30–35 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Bishu Canteen|Jamshedpur",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Neuma|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Que sera sera|Mumbai",
+    "matched": true,
+    "res_id": 20789803,
+    "name": "Que Sera Sera, Andheri Lokhandwala, Andheri West",
+    "rating": 4.2,
+    "votes": 234,
+    "image": "https://b.zmtcdn.com/data/pictures/3/20789803/e6a8fe7fc18159561c3f810937b95c84_o2_featured_v2.jpg",
+    "eta": "70–75 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Corkage & Co, Powai|Mumbai",
+    "matched": true,
+    "res_id": 20824772,
+    "name": "Corkage & Co., Powai",
+    "rating": 3.8,
+    "votes": 99,
+    "image": "https://b.zmtcdn.com/data/pictures/2/20824772/c9ed9dffd2ec15d4a6fac5c46877b1dd_o2_featured_v2.jpg",
+    "eta": "65–70 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Osteria, Andheri|Mumbai",
+    "matched": true,
+    "res_id": 20031033,
+    "name": "Òsteria, Veera Desai Area",
+    "rating": 4.2,
+    "votes": 612,
+    "image": "https://b.zmtcdn.com/data/pictures/3/20031033/58225a2d358933ca01edaaec0c737c5a_o2_featured_v2.jpg",
+    "eta": "60–65 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Nara|Mumbai",
+    "matched": true,
+    "res_id": 18572909,
+    "name": "Nara Thai",
+    "rating": 4.3,
+    "votes": 1763,
+    "image": "https://b.zmtcdn.com/data/pictures/9/18572909/269030519ad32344313cf4700d820155_o2_featured_v2.jpg",
+    "eta": "30–35 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Slink & Bardot|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Sixteen 33, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 21494377,
+    "name": "Sixteen 33 Eatery And Cocktail Bar, Pali Hill, Bandra West",
+    "rating": 3.8,
+    "votes": 19,
+    "image": "https://b.zmtcdn.com/data/pictures/7/21494377/7a3e7454fd8744318d75d470adb9b8e4_o2_featured_v2.jpg",
+    "eta": "45–50 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Plural, Fort|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Folk|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Mezcalita|Mumbai",
+    "matched": true,
+    "res_id": 47978,
+    "name": "Mezcalita Cantina Y Tequila Bar",
+    "rating": 4.1,
+    "votes": 7764,
+    "image": "https://b.zmtcdn.com/data/pictures/8/47978/c103e3ec0010b786f75d18eb76d4b08d_o2_featured_v2.jpg",
+    "eta": "45–50 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "The clearing house|Mumbai",
+    "matched": true,
+    "res_id": 18397675,
+    "name": "The Clearing House, Fort",
+    "rating": 4.3,
+    "votes": 61,
+    "image": "https://b.zmtcdn.com/data/pictures/5/18397675/a332ee24ad2d5c59e3603ca6c95a75b6_o2_featured_v2.jpg",
+    "eta": "80–85 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Canto Bar and Kitchen|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Cray Craft|Mumbai",
+    "matched": true,
+    "res_id": 20627254,
+    "name": "Cray Craft",
+    "rating": 4.2,
+    "votes": 562,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/20627254/7fd28fdd0de1c1087dafbd973152d07d_o2_featured_v2.jpg",
+    "eta": "55–60 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Sardar Pav Bhaji|Mumbai",
+    "matched": true,
+    "res_id": 43212,
+    "name": "Sardar Pav Bhaji, Tardeo",
+    "rating": 4.2,
+    "votes": 17652,
+    "image": "https://b.zmtcdn.com/data/pictures/2/43212/914b492eb35a7777a4e6870cbb7375d5_o2_featured_v2.jpg",
+    "eta": "60–65 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Pomodoro, Bandra|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Blondie, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 21940265,
+    "name": "Blondie, Khar",
+    "rating": 4.3,
+    "votes": 53,
+    "image": "https://b.zmtcdn.com/data/pictures/5/21940265/1a5ccfde3c7d708c7b9730122845cad6_o2_featured_v2.jpg",
+    "eta": "40–45 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Pause, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 21777321,
+    "name": "Pause- Your Everyday Cafe, Carter Road, Bandra West",
+    "rating": 4.2,
+    "votes": 48,
+    "image": "https://b.zmtcdn.com/data/pictures/1/21777321/42b67890d2dc70e38d0d5835d9bbecec_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Gustoso, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 18326069,
+    "name": "Gustoso",
+    "rating": 4.1,
+    "votes": 1557,
+    "image": "https://b.zmtcdn.com/data/pictures/9/18326069/e187514899e0f4b2d49c88ed25f3eea4_o2_featured_v2.jpg",
+    "eta": "45–50 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Kepchaki Momos, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 22456107,
+    "name": "Kepchaki Momo, Andheri Lokhandwala, Andheri West",
+    "rating": 4.1,
+    "votes": 119,
+    "image": "https://b.zmtcdn.com/data/pictures/7/22456107/ad5987e47b7aef059db9889769cf1800_o2_featured_v2.jpg",
+    "eta": "65–70 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Across, Fort|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Ferry Wharf, Bandra|",
+    "matched": false,
+    "reason": "no_address_for_city"
+  },
+  {
+    "csv_key": "Call me ten, Delhi|Delhi",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Mizu, Khar|Mumbai",
+    "matched": true,
+    "res_id": 19611732,
+    "name": "Mizu, Khar",
+    "rating": 4.3,
+    "votes": 1079,
+    "image": "https://b.zmtcdn.com/data/pictures/2/19611732/c8e3dba69c7bf0875ccf3e70b3c2fb5c_o2_featured_v2.jpg",
+    "eta": "30–35 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "PCO Bar|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Taó 66|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Kuuraku, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 20608143,
+    "name": "Kuuraku, Linking Road, Bandra West",
+    "rating": 4.4,
+    "votes": 309,
+    "image": "https://b.zmtcdn.com/data/pictures/3/20608143/0628350866a012d662cc8308cb3393df_o2_featured_v2.jpg",
+    "eta": "35–40 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Donmai, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 21505520,
+    "name": "Donmai, Worli",
+    "rating": 4.3,
+    "votes": 63,
+    "image": "https://b.zmtcdn.com/data/pictures/0/21505520/5feec500dd35914b1419fc1d7790ee56_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Cecconi’s|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Donna Deli, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 20040199,
+    "name": "Donna Deli",
+    "rating": 3.8,
+    "votes": 1448,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/20040199/ec649e0aacbf2b91f01aceff0b7db825_o2_featured_v2.jpg",
+    "eta": "30–35 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "My Oh my bombay|Mumbai",
+    "matched": true,
+    "res_id": 21367946,
+    "name": "My Oh My - Live Kitchen & Bar, Andheri Lokhandwala, Andheri West",
+    "rating": 3.4,
+    "votes": 42,
+    "image": "https://b.zmtcdn.com/data/pictures/6/21367946/9e2d6a9c5eb7654141fefbb11ffaa830_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Tamari, Bombay|Mumbai",
+    "matched": true,
+    "res_id": 21447868,
+    "name": " Tamari, Linking Road, Bandra West",
+    "rating": 4.4,
+    "votes": 458,
+    "image": "https://b.zmtcdn.com/data/pictures/8/21447868/4b81efec34b7cf48d1ca209000cc175a_o2_featured_v2.jpg",
+    "eta": "40–45 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Paradox|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Takumi, Santacruz|Mumbai",
+    "matched": true,
+    "res_id": 20981052,
+    "name": "Takumi, Santacruz West",
+    "rating": 3.6,
+    "votes": 38,
+    "image": "https://b.zmtcdn.com/data/pictures/2/20981052/c0b95ee6a8a2e33af5dc3e7f810d1a64_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Origami|Mumbai",
+    "matched": true,
+    "res_id": 18627497,
+    "name": "Origami Japanese And Korean Restaurant",
+    "rating": 4.2,
+    "votes": 2642,
+    "image": "https://b.zmtcdn.com/data/pictures/7/18627497/27edc60f8b8e41ee52bec503686977c0_o2_featured_v2.jpg",
+    "eta": "60–65 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Vietnom|Mumbai",
+    "matched": true,
+    "res_id": 21288444,
+    "name": "Vietnom",
+    "rating": 4.3,
+    "votes": 300,
+    "image": "https://b.zmtcdn.com/data/dish_photos/5f8/d30779be22e3b82c1e547466091e15f8.jpeg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Farro|Pune",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Oi Brewhouse|Pune",
+    "matched": true,
+    "res_id": 21541699,
+    "name": "Oi Brewhouse",
+    "rating": 4.3,
+    "votes": 81,
+    "image": "https://b.zmtcdn.com/data/pictures/9/21541699/5a575147ff884703a56ea63064243b5d_o2_featured_v2.jpg",
+    "eta": "30–35 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "The Royal China, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 19592218,
+    "name": "Royal China",
+    "rating": 4.2,
+    "votes": 3824,
+    "image": "https://b.zmtcdn.com/data/pictures/8/19592218/b2688c9e053c59d5f7ae19ddfeda22cc_o2_featured_v2.jpg",
+    "eta": "45–50 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "O Pedro, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 18583679,
+    "name": "O Pedro",
+    "rating": 4.4,
+    "votes": 931,
+    "image": "https://b.zmtcdn.com/data/pictures/9/18583679/39e1b3fca00f55448d582d76dcb715f3_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Boojee Cafe, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 19119928,
+    "name": "Boojee Cafe",
+    "rating": 4.3,
+    "votes": 18125,
+    "image": "https://b.zmtcdn.com/data/pictures/8/19119928/4d3221e074e68ecd285cc940fcbecc2d_o2_featured_v2.jpg",
+    "eta": "50–55 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Comorin, Lower Parel|Mumbai",
+    "matched": true,
+    "res_id": 21942597,
+    "name": "Comorin, Lower Parel",
+    "rating": 4.2,
+    "votes": 190,
+    "image": "https://b.zmtcdn.com/data/pictures/7/21942597/4778690d934de4583f0fc4c34b7408db_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Dimsum Room, Kala Ghoda|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Bang, Bandra|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Gaijin, Bandra|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Ode, Worli|Mumbai",
+    "matched": true,
+    "res_id": 20968377,
+    "name": "Ode, Worli",
+    "rating": 4.5,
+    "votes": 178,
+    "image": "https://b.zmtcdn.com/data/pictures/7/20968377/016ac5d1ae6e95373aab773ad850282e_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Malido, Kala Ghoda|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Nipha, Nashik|Nashik",
+    "matched": false,
+    "reason": "no_address_for_city"
+  },
+  {
+    "csv_key": "HOM, Bandra|Mumbai",
+    "matched": true,
+    "res_id": 22050722,
+    "name": "Asian Bistro By HOM, Bandra East",
+    "rating": 4,
+    "votes": 26,
+    "image": "https://b.zmtcdn.com/data/pictures/2/22050722/acb076bb2f6bbb439b24bd1537ef04c7_o2_featured_v2.jpg",
+    "eta": "30–35 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Bang Bang Noodles|Mumbai",
+    "matched": true,
+    "res_id": 22045521,
+    "name": "Bang Bang ! Noodle, Goregaon West",
+    "rating": 4,
+    "votes": 286,
+    "image": "https://b.zmtcdn.com/data/pictures/1/22045521/fc09eaf647b784f382ddf2fadb40a774_o2_featured_v2.jpg",
+    "eta": "65–70 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Barako, Lower Parel|Mumbai",
+    "matched": true,
+    "res_id": 20799311,
+    "name": "Barako Bubble Tea & Coffee",
+    "rating": 4.1,
+    "votes": 1203,
+    "image": "https://b.zmtcdn.com/data/pictures/1/20799311/cb7553977610ee1d900f0012f2fcf6ed_o2_featured_v2.jpg",
+    "eta": "40–45 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "House Of Paloma, Bandra|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Bokka Coffee|Mumbai",
+    "matched": true,
+    "res_id": 20750422,
+    "name": "Bokka Coffee",
+    "rating": 4.4,
+    "votes": 632,
+    "image": "https://b.zmtcdn.com/data/pictures/2/20750422/f03b1a5361ae0baa214ea4db675b3bfa_o2_featured_v2.jpg",
+    "eta": "50–55 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Morii|Mumbai",
+    "matched": true,
+    "res_id": 20576835,
+    "name": "Morii Cafe",
+    "rating": 4.3,
+    "votes": 1138,
+    "image": "https://b.zmtcdn.com/data/dish_photos/300/b46634fa7069f807b4a0142eb2fa4300.jpeg",
+    "eta": "45–50 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Loyka|Mumbai",
+    "matched": true,
+    "res_id": 21630733,
+    "name": "Loyka",
+    "rating": 4.4,
+    "votes": 627,
+    "image": "https://b.zmtcdn.com/data/pictures/3/21630733/ea8ecc8b0ce1c5f448076626ee318e52_o2_featured_v2.jpg",
+    "eta": "50–55 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Tokyo Matcha Bar|Mumbai",
+    "matched": true,
+    "res_id": 21587122,
+    "name": "Tokyo Matcha Bar",
+    "rating": 4.1,
+    "votes": 291,
+    "image": "https://b.zmtcdn.com/data/pictures/2/21587122/2c293b7ba27538e12c946912a0049f02_o2_featured_v2.jpg",
+    "eta": "40–45 min",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Oh Dough!|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Otoki, Fort|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "7th east|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Yamsai, Bandra|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Bawri, BKC|Mumbai",
+    "matched": true,
+    "res_id": 20955949,
+    "name": "Bawri, Bandra Kurla Complex",
+    "rating": 4.2,
+    "votes": 212,
+    "image": "https://b.zmtcdn.com/data/pictures/9/20955949/9219139af8dd00ec238c9f7325e9747e_o2_featured_v2.jpg",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "Opa, Worli|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Kaspers, Bandra West|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Amadeo, BKC|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Amaru, BKC|Mumbai",
+    "matched": true,
+    "res_id": 21513928,
+    "name": "Amaru, Reclamation, Bandra West",
+    "rating": 0,
+    "votes": 0,
+    "image": "https://b.zmtcdn.com/data/pictures/8/21513928/a4b95caa7f3a7ef043a8d85ffe38ae51_featured_v2.jpg?crop=200%3A200%3B%2A%2C%2A&fit=around%7C200%3A200",
+    "eta": "",
+    "serviceable": false
+  },
+  {
+    "csv_key": "La Loca Maria, Bandra West|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Punchline, Bandra|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "66 Chuim, Bandra|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Adam and Eve, Bandra|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "304, Delhi|Delhi",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Soam, SoBo|Mumbai",
+    "matched": true,
+    "res_id": 38918,
+    "name": "Soam, Grant Road",
+    "rating": 4.2,
+    "votes": 6955,
+    "image": "https://b.zmtcdn.com/data/pictures/8/38918/c164c7d08630743b4b214171d080732f_o2_featured_v2.jpg",
+    "eta": "65–70 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Naked and Famous, BLR|Bangalore",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Gajalee, Marol|Mumbai",
+    "matched": true,
+    "res_id": 35186,
+    "name": "Gajalee",
+    "rating": 4.3,
+    "votes": 7892,
+    "image": "https://b.zmtcdn.com/data/pictures/6/35186/a1cff8856ad9b0921fd2fc34d3b0d9e4_o2_featured_v2.jpg",
+    "eta": "70–75 mins",
+    "serviceable": true
+  },
+  {
+    "csv_key": "Everhome Cafe, Bandra|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Trishna|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Hearth Restaurant|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  },
+  {
+    "csv_key": "Cordeliers Cafe|Mumbai",
+    "matched": false,
+    "reason": "no_name_match"
+  }
+]

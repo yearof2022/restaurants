@@ -1,0 +1,316 @@
+{
+  "_help": "Fill in lat and lng for any row you want pinned on the map. Get coords by right-clicking the venue in Google Maps and clicking the lat/lng to copy. Rows you don't fill in just stay off the map. Re-run geocode.py after editing.",
+  "overrides": {
+    "Queen's Margherita Pizza|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Pass the salt|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Maderia and Mime, Powai|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Mirchi and Mime|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Hakassan|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Younion|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Asian Kitchen by Mainland China|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Pali Village Cafe|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Affogato|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Umame|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Megumi|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Otra|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Grey Soul Coffee|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Amaru|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Toast Pasta Bar|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Denny’s Waffles|Pune": {
+      "lat": null,
+      "lng": null
+    },
+    "Retox|Pune": {
+      "lat": null,
+      "lng": null
+    },
+    "Boho Boho|Pune": {
+      "lat": null,
+      "lng": null
+    },
+    "Santorini Hilton|Pune": {
+      "lat": null,
+      "lng": null
+    },
+    "La cherie cheesecakes|Pune": {
+      "lat": null,
+      "lng": null
+    },
+    "Escada Pune|Pune": {
+      "lat": null,
+      "lng": null
+    },
+    "Penthouse|Pune": {
+      "lat": null,
+      "lng": null
+    },
+    "Cobbler & Crew|Pune": {
+      "lat": null,
+      "lng": null
+    },
+    "Donna Cucina|Pune": {
+      "lat": null,
+      "lng": null
+    },
+    "Bai Mu Dan|Pune": {
+      "lat": null,
+      "lng": null
+    },
+    "Americano|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Papas|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Tanjore Tiffin Room|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Gigi|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Toast & Tonic|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Late Check-out|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Ditas|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "QEY Sip & Vault|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "The tasting room by diva|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Vanilla Miel|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "BaoJi Asian Restaurant, Andheri|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Cocktail Room by Milagro|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Cuppetto|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Wagamama|Mumbai": {
+      "lat": null,
+      "lng": null
+    },
+    "Bombon, KP|Pune": {
+      "lat": null,
+      "lng": null
+    },
+    "Aabbcc|Delhi": {
+      "lat": null,
+      "lng": null
+    },
+    "Millo, Kamala Mills|Mumbai": {
+      "lat": 19.003791,
+      "lng": 72.8280284,
+      "source": "zomato_scraped",
+      "user_confirmed": true,
+      "address": "Ground Floor, Times Tower, Kamla Mills Compound, Lower Parel, Mumbai",
+      "res_id": 20517570
+    },
+    "Native|Mumbai": {
+      "lat": 18.93488,
+      "lng": 72.83797,
+      "source": "zomato_scraped",
+      "user_confirmed": true,
+      "address": "10/12, Cochin Street, Ballard Estate, Fort, Mumbai",
+      "res_id": 20289421
+    },
+    "Magari, Andheri|Mumbai": {
+      "lat": 19.1287942,
+      "lng": 72.8255543,
+      "source": "user_specified_4_bungalows",
+      "user_confirmed": true,
+      "address": "4 Bungalows junction, Andheri West (approximate, user-specified neighborhood)"
+    },
+    "Neuma|Mumbai": {
+      "lat": 18.922,
+      "lng": 72.8333,
+      "source": "user_specified_apollo_bunder",
+      "user_confirmed": true,
+      "address": "Apollo Bunder, Colaba, near Taj Mahal Palace (approximate)"
+    },
+    "Lyla|Mumbai": {
+      "lat": 19.0668,
+      "lng": 72.8689,
+      "source": "user_specified_bkc",
+      "user_confirmed": true,
+      "address": "Bandra Kurla Complex (user-specified, approximate)"
+    },
+    "Pop Tates, Kamala Mills|Mumbai": {
+      "lat": 19.0032487,
+      "lng": 72.8275673,
+      "source": "zomato_scraped",
+      "user_confirmed": true,
+      "address": "Unit 1, B Wing, Ground Floor, Trade Tower, Kamla Mills Compound, S.B.Marg, Lower Parel, Mumbai",
+      "res_id": 19565983
+    },
+    "Saz|Mumbai": {
+      "lat": 19.0533265,
+      "lng": 72.8510028,
+      "source": "zomato_scraped",
+      "user_confirmed": true,
+      "address": "Ground Floor, Jio World Drive, Bandra East, Mumbai",
+      "res_id": 20199801
+    },
+    "Gustoso, Bandra|Mumbai": {
+      "lat": 19.0596,
+      "lng": 72.8295,
+      "source": "user_specified_bandra_west",
+      "user_confirmed": true,
+      "address": "Bandra West, Linking Road area (approximate)"
+    },
+    "Osteria, Andheri|Mumbai": {
+      "lat": 19.1358810293,
+      "lng": 72.8335629031,
+      "source": "zomato_scraped",
+      "user_confirmed": true,
+      "address": "C19, Ground Level, Dreamworks, Dalia Estate, Off Link Road, Near Fun Republic, Veera Desai Area, Mumbai",
+      "res_id": null
+    },
+    "Corkage & Co, Powai|Mumbai": {
+      "lat": 19.11767,
+      "lng": 72.889346,
+      "source": "zomato_scraped",
+      "user_confirmed": true,
+      "address": "Ground Floor, Joshi Building, Saki Vihar Road, Powai, Mumbai",
+      "res_id": 20824772
+    },
+    "Subko Coffee Roasters, Bandra|Mumbai": {
+      "lat": 19.0625,
+      "lng": 72.8315,
+      "source": "user_specified_bandra_west",
+      "user_confirmed": true,
+      "address": "Bandra West (approximate, Subko Bandra outlet)"
+    },
+    "Amazonia, BKC|Mumbai": {
+      "lat": 19.0593833582,
+      "lng": 72.8653984471,
+      "source": "zomato_scraped",
+      "user_confirmed": true,
+      "address": "Unit 5, Ground Floor, Godrej BKC, Bandra Kurla Complex, Mumbai",
+      "res_id": 20566183
+    },
+    "Episode One, Powai|Mumbai": {
+      "lat": 19.1206031514,
+      "lng": 72.9091800749,
+      "source": "zomato_scraped",
+      "user_confirmed": true,
+      "address": "3, Delphi Orchid Avenue Park, Powai, Mumbai"
+    },
+    "Kepchaki Momos, Bandra|Mumbai": {
+      "lat": 19.0596,
+      "lng": 72.8295,
+      "source": "user_specified_bandra_west",
+      "user_confirmed": true,
+      "address": "Bandra West (approximate)"
+    },
+    "Punchline, Bandra|Mumbai": {
+      "lat": 19.0596,
+      "lng": 72.8295,
+      "source": "user_specified_bandra_west",
+      "user_confirmed": true,
+      "address": "Bandra West (approximate)"
+    },
+    "Yamsai, Bandra|Mumbai": {
+      "lat": 19.0596,
+      "lng": 72.8295,
+      "source": "user_specified_bandra_west",
+      "user_confirmed": true,
+      "address": "Bandra West (approximate)"
+    },
+    "Gaijin, Bandra|Mumbai": {
+      "lat": 19.0596,
+      "lng": 72.8295,
+      "source": "user_specified_bandra_west",
+      "user_confirmed": true,
+      "address": "Bandra West (approximate)"
+    },
+    "Tamari, Bombay|Mumbai": {
+      "lat": 19.0644625,
+      "lng": 72.8310387,
+      "source": "osm_locationiq",
+      "user_confirmed": true,
+      "address": "Tamari, Padmashree Mohammed Rafi Marg (16th Road), Pali Village, Khar, Bandra West, Mumbai"
+    },
+    "Ocho, Bandra|Mumbai": {
+      "lat": 19.0596,
+      "lng": 72.8295,
+      "source": "user_specified_bandra_west",
+      "user_confirmed": true,
+      "address": "Bandra West (approximate)"
+    },
+    "Everhome Cafe, Bandra|Mumbai": {
+      "lat": 19.062412,
+      "lng": 72.831025,
+      "source": "osm_locationiq_approx",
+      "user_confirmed": true,
+      "address": "Bandra F zone (OSM 'Cafe Bandra' approximate)"
+    }
+  }
+}

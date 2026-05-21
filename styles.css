@@ -1,0 +1,174 @@
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: #1a1a1a;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.topbar {
+  background: #fff;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  z-index: 1;
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.filters input,
+.filters select,
+.filters button {
+  font: inherit;
+  padding: 6px 10px;
+  border: 1px solid #d0d0d0;
+  border-radius: 6px;
+  background: #fff;
+  min-height: 32px;
+}
+
+.filters input#f-search {
+  flex: 1 1 200px;
+  min-width: 180px;
+}
+
+.filters select {
+  cursor: pointer;
+  min-width: 110px;
+  max-width: 200px;
+}
+
+.filters select[multiple] {
+  height: 32px;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path d='M0 0l5 6 5-6z' fill='%23666'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+  padding-right: 24px;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+.filters button {
+  cursor: pointer;
+  background: #f5f5f5;
+}
+
+.filters button:hover {
+  background: #ececec;
+}
+
+.count {
+  margin-left: auto;
+  font-size: 13px;
+  color: #666;
+}
+
+main {
+  flex: 1;
+  min-height: 0;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+/* Info window */
+.iw {
+  font-size: 13px;
+  max-width: 280px;
+  line-height: 1.45;
+}
+.iw h3 {
+  margin: 0 0 6px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.iw .badge {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 2px 6px;
+  border-radius: 999px;
+  letter-spacing: 0.03em;
+}
+.iw .badge.visited { background: #d4edda; color: #155724; }
+.iw .badge.wishlist { background: #f8d7da; color: #721c24; }
+.iw .meta {
+  color: #555;
+  font-size: 12px;
+  margin: 0 0 6px;
+}
+.iw .meta .sep { color: #bbb; padding: 0 4px; }
+.iw .comment {
+  margin: 6px 0;
+  white-space: pre-wrap;
+}
+.iw .links {
+  margin-top: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.iw .links a {
+  font-size: 12px;
+  text-decoration: none;
+  color: #1a73e8;
+}
+.iw .links a:hover { text-decoration: underline; }
+
+/* Zomato block in the popup */
+.iw .zomato {
+  margin: 8px 0 4px;
+}
+.iw .zomato-photo {
+  display: block;
+  width: 100%;
+  max-height: 140px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 6px;
+}
+.iw .zomato-meta {
+  font-size: 12px;
+  color: #333;
+}
+
+/* Leaflet pin DivIcon — strip background so only the SVG shows */
+.pin-icon {
+  background: none;
+  border: none;
+}
+
+/* Slight polish for Leaflet popups */
+.leaflet-popup-content {
+  margin: 12px 14px;
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+}

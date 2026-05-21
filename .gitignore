@@ -1,0 +1,15 @@
+.env
+.cache/
+*.pyc
+__pycache__/
+.venv/
+venv/
+.DS_Store
+*Zone.Identifier
+*endpointdlp
+geocode.log
+audit.json
+audit_part_*.json
+candidates.json
+candidates_part_*.json
+.claude/settings.local.json

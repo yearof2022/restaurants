@@ -1,0 +1,54 @@
+name: Sync Notion → Sheet
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # daily at 3am UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Restore geocode cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: geocode-cache-v1
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync Notion → restaurants.json
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          LOCATIONIQ_API_KEY: ${{ secrets.LOCATIONIQ_API_KEY }}
+          VERIFY_SSL: '1'
+        run: python sync_notion.py
+
+      - name: Push restaurants.json → Google Sheet
+        env:
+          GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}
+          GOOGLE_SHEETS_ID: ${{ secrets.GOOGLE_SHEETS_ID }}
+        run: python to_sheets.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add restaurants.json skipped.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-sync: refresh from Notion ($(date -u +%Y-%m-%d))"
+            git push
+          fi

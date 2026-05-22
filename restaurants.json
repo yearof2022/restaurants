@@ -1,5 +1,19 @@
 [
   {
+    "Restaurant Name": "Darry’s House, Bandra",
+    "City": "Mumbai",
+    "Comment": "Burgers were great, Kombucha not so good",
+    "Cuisine Type": "Cafe",
+    "Price": "",
+    "Rating": "⭐⭐⭐⭐",
+    "URL": "",
+    "Visited": "No",
+    "place_id": "330180923458",
+    "lat": 18.97033,
+    "lng": 72.804676,
+    "formatted_address": "Poonawala House (Lincoln House), Kumbala Hill, Zone 1, Mumbai, Mumbai City, Maharashtra, India"
+  },
+  {
     "Restaurant Name": "Cordeliers Cafe",
     "City": "Mumbai",
     "Comment": "",
@@ -93,10 +107,9 @@
     "URL": "https://www.instagram.com/reel/DX_26Pmx8Eo/?igsh=MW1oNHV4dnRkZG85ZQ==",
     "Visited": "No",
     "place_id": "330687524278",
-    "lat": 18.96557,
-    "lng": 72.816217,
-    "formatted_address": "Orchids The International School, Grant Road, 101, Chikhalwadi Rd, Grant Road West, Chikalwadi, Tardeo, Bombay Tardeo, Zone 1, Mumbai, Mumbai City, Maharashtra, 400007, India",
-    "regeocoded_from_zomato": true
+    "lat": 18.957468,
+    "lng": 72.808976,
+    "formatted_address": "Soam Restaurant, Malbar Hill, Zone 1, Mumbai, Mumbai City, Maharashtra, India"
   },
   {
     "Restaurant Name": "304, Delhi",
@@ -234,10 +247,9 @@
     "URL": "",
     "Visited": "Yes",
     "place_id": "331859676230",
-    "lat": 19.071092,
-    "lng": 72.873547,
-    "formatted_address": "Bandra Kurla Complex road, Parighkhadi, Zone 3, Mumbai, Mumbai City, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.067725,
+    "lng": 72.864846,
+    "formatted_address": "Mumbai BKC, Kolekalyan, Zone 3, Mumbai, Mumbai City, Maharashtra, India"
   },
   {
     "Restaurant Name": "Yamsai, Bandra",
@@ -543,10 +555,9 @@
     "URL": "",
     "Visited": "No",
     "place_id": "334020465218",
-    "lat": 19.0534591,
-    "lng": 72.8241094,
-    "formatted_address": "Royal China, Hill Road, Chimbai Village, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.059503,
+    "lng": 72.835509,
+    "formatted_address": "Royal China, Turner Road (Gurunanak Marg), Bandra F, Zone 3, Mumbai, Mumbai City, Maharashtra, 400050, India"
   },
   {
     "Restaurant Name": "Oi Brewhouse",
@@ -600,10 +611,9 @@
     "URL": "",
     "Visited": "No",
     "place_id": "246950702",
-    "lat": 19.1106954,
-    "lng": 72.9080477,
-    "formatted_address": "origami japanese and korean restaurant, Ridge Street, Powai, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400084, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.0611165,
+    "lng": 72.868149,
+    "formatted_address": "Origami Japanese & Korean Restaurant, G-Block, Bandra Kurla Complex, Avenue 3, G Block, Bandra Kurla Complex, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400051, India"
   },
   {
     "Restaurant Name": "Takumi, Santacruz",
@@ -615,10 +625,9 @@
     "URL": "",
     "Visited": "No",
     "place_id": "332279260237",
-    "lat": 19.090209,
-    "lng": 72.830692,
-    "formatted_address": "Santacruz West, Zone 3, Mumbai, Mumbai City, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.093774,
+    "lng": 72.856816,
+    "formatted_address": "Terminal 1, Vile Parle, Zone 3, Mumbai, Mumbai City, Maharashtra, India"
   },
   {
     "Restaurant Name": "Paradox",
@@ -658,10 +667,9 @@
     "URL": "https://www.instagram.com/share/reel/BA_xypErCf",
     "Visited": "No",
     "place_id": "246951874",
-    "lat": 19.120621,
-    "lng": 72.848751,
-    "formatted_address": "Ratnagiri Restaurant And Bar, Andheri, Zone 3, Mumbai, Mumbai City, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.1411702,
+    "lng": 72.827342,
+    "formatted_address": "Oh My Dog, Ground Floor, Clanfield Society, P Tandon Marg, Shastri Nagar, Jogeshwari West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400053, India"
   },
   {
     "Restaurant Name": "Donna Deli, Bandra",
@@ -701,10 +709,9 @@
     "URL": "https://www.instagram.com/share/reel/BAPkD2blIe",
     "Visited": "No",
     "place_id": "330106861911",
-    "lat": 19.023695,
-    "lng": 72.816857,
-    "formatted_address": "Worli Fort, Worli, Zone 2, Mumbai, Mumbai City, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.054979,
+    "lng": 72.84022,
+    "formatted_address": "Bandra, Bandra A, Zone 3, Mumbai, Mumbai City, Maharashtra, India"
   },
   {
     "Restaurant Name": "Kuuraku, Bandra",
@@ -716,10 +723,9 @@
     "URL": "https://www.instagram.com/share/reel/BAHIWMAOd2",
     "Visited": "No",
     "place_id": "330106861911",
-    "lat": 19.072218,
-    "lng": 72.834147,
-    "formatted_address": "Linking Road Khar, Bandra E, Zone 3, Mumbai, Mumbai City, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.054979,
+    "lng": 72.84022,
+    "formatted_address": "Bandra, Bandra A, Zone 3, Mumbai, Mumbai City, Maharashtra, India"
   },
   {
     "Restaurant Name": "Taó 66",
@@ -843,10 +849,9 @@
     "URL": "https://www.instagram.com/share/reel/_lID7Vahk",
     "Visited": "No",
     "place_id": "246916821",
-    "lat": 19.068918,
-    "lng": 72.822972,
-    "formatted_address": "Carter Road, Bandra C, Zone 3, Mumbai, Mumbai City, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.0631232,
+    "lng": 72.8249195,
+    "formatted_address": "Pause, Pali Mala Road, Malla, Khar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India"
   },
   {
     "Restaurant Name": "Blondie, Bandra",
@@ -858,10 +863,9 @@
     "URL": "https://www.instagram.com/share/reel/_9PkDNMkw",
     "Visited": "No",
     "place_id": "330106861911",
-    "lat": 19.068939,
-    "lng": 72.840118,
-    "formatted_address": "Khar Road, Bandra F, Zone 3, Mumbai, Mumbai City, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.054979,
+    "lng": 72.84022,
+    "formatted_address": "Bandra, Bandra A, Zone 3, Mumbai, Mumbai City, Maharashtra, India"
   },
   {
     "Restaurant Name": "Pomodoro, Bandra",
@@ -1097,10 +1101,9 @@
     "URL": "",
     "Visited": "Yes",
     "place_id": "330106861911",
-    "lat": 19.0609644,
-    "lng": 72.8628825,
-    "formatted_address": "Yauatcha, Bandra Kurla Complex Road, Bandra Kurla Complex, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.054979,
+    "lng": 72.84022,
+    "formatted_address": "Bandra, Bandra A, Zone 3, Mumbai, Mumbai City, Maharashtra, India"
   },
   {
     "Restaurant Name": "Elementaria Bakery",
@@ -1238,10 +1241,9 @@
     "URL": "",
     "Visited": "No",
     "place_id": "330106861911",
-    "lat": 19.090209,
-    "lng": 72.830692,
-    "formatted_address": "Santacruz West, Zone 3, Mumbai, Mumbai City, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.054979,
+    "lng": 72.84022,
+    "formatted_address": "Bandra, Bandra A, Zone 3, Mumbai, Mumbai City, Maharashtra, India"
   },
   {
     "Restaurant Name": "Indian Accent",
@@ -1267,10 +1269,9 @@
     "URL": "",
     "Visited": "No",
     "place_id": "330106861911",
-    "lat": 19.0540462,
-    "lng": 72.8268024,
-    "formatted_address": "Veronica‘s, Veronica Street, Ranwar Village Square, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.054979,
+    "lng": 72.84022,
+    "formatted_address": "Bandra, Bandra A, Zone 3, Mumbai, Mumbai City, Maharashtra, India"
   },
   {
     "Restaurant Name": "Subko Coffee Roasters, Bandra",
@@ -1310,10 +1311,9 @@
     "URL": "",
     "Visited": "Yes",
     "place_id": "330106861911",
-    "lat": 19.026186,
-    "lng": 72.850855,
-    "formatted_address": "Pa Pa Pagli Kala Kendra, Bombay Matunga, Zone 2, Mumbai, Mumbai City, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.054979,
+    "lng": 72.84022,
+    "formatted_address": "Bandra, Bandra A, Zone 3, Mumbai, Mumbai City, Maharashtra, India"
   },
   {
     "Restaurant Name": "Bandra Born",
@@ -1479,10 +1479,9 @@
     "URL": "https://www.instagram.com/reel/DBajrmYu6Td/",
     "Visited": "No",
     "place_id": "246802314",
-    "lat": 18.5172871,
-    "lng": 73.8413382,
-    "formatted_address": "Cafe Goodluck Road, Deccan Gymkhana, Pune, Pune City, Pune District, Maharashtra, 411004, India",
-    "regeocoded_from_zomato": true
+    "lat": 18.516814,
+    "lng": 73.7815622,
+    "formatted_address": "Goodluck Cafe, Pashan-Bavdhan Road, Anupam Park, Bavdhan, Pune City, Pune District, Maharashtra, 411072, India"
   },
   {
     "Restaurant Name": "Ground Up",
@@ -1494,10 +1493,9 @@
     "URL": "https://www.instagram.com/reel/C8r2eCUILTm/",
     "Visited": "No",
     "place_id": "246821725",
-    "lat": 18.529569,
-    "lng": 73.856433,
-    "formatted_address": "Fast food, Ghole Road, Pune, Pune, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 18.5366947,
+    "lng": 73.8199903,
+    "formatted_address": "Upper Ground, Pune, Pune City, Pune District, Maharashtra, 411001, India"
   },
   {
     "Restaurant Name": "Le palasir",
@@ -1509,10 +1507,9 @@
     "URL": "https://www.instagram.com/reel/C-kftnWCJtp/",
     "Visited": "No",
     "place_id": "330470999041",
-    "lat": 18.5143251,
-    "lng": 73.8386328,
-    "formatted_address": "Le Plaisir, Prabhat Path, Deccan Gymkhana, Pune, Pune City, Pune District, Maharashtra, 411004, India",
-    "regeocoded_from_zomato": true
+    "lat": 18.532922,
+    "lng": 73.846809,
+    "formatted_address": "ONP Leela Hospital, 1671 - 75, Ganeshkhind Road, Ghole Road, Pune, Pune, Maharashtra, 411005, India"
   },
   {
     "Restaurant Name": "Fyole Cafe",
@@ -1594,10 +1591,9 @@
     "URL": "",
     "Visited": "Yes",
     "place_id": "246881553",
-    "lat": 18.518914,
-    "lng": 73.876752,
-    "formatted_address": "Dorabjee's Camp, 1-B, Moledina Rd, Camp, Pune, Maharashtra 411001, India, Pune Cantonment, Pune Cantonment, Pune, Pune, Maharashtra, 411001, India",
-    "regeocoded_from_zomato": true
+    "lat": 18.5654341,
+    "lng": 73.803569,
+    "formatted_address": "Supriya Towers, Aundh, Pune, Pune City, Pune District, Maharashtra, 411007, India"
   },
   {
     "Restaurant Name": "Butter brews",
@@ -1651,10 +1647,9 @@
     "URL": "",
     "Visited": "No",
     "place_id": "330607506918",
-    "lat": 18.493629,
-    "lng": 73.814786,
-    "formatted_address": "Cafe Peter, Warje Karvenagar, Pune, Pune, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 18.519479,
+    "lng": 73.870703,
+    "formatted_address": "Pune, Pune, Maharashtra, India"
   },
   {
     "Restaurant Name": "Talli",
@@ -1694,10 +1689,9 @@
     "URL": "",
     "Visited": "Yes",
     "place_id": "246827324",
-    "lat": 18.4917721,
-    "lng": 73.900206,
-    "formatted_address": "Kwality, Late Vitthalrao Namdeo Shivarkar Road, Wanawadi, Pune, Pune City, Pune District, Maharashtra, 411018, India",
-    "regeocoded_from_zomato": true
+    "lat": 18.5150767,
+    "lng": 73.8799074,
+    "formatted_address": "Kwality, East Street, Pune Cantonment, Pune, Pune City, Pune District, Maharashtra, 411001, India"
   },
   {
     "Restaurant Name": "Murphies",
@@ -1709,10 +1703,9 @@
     "URL": "",
     "Visited": "Yes",
     "place_id": "246868179",
-    "lat": 18.499041,
-    "lng": 73.819188,
-    "formatted_address": "N.I.P.R Bar, Shop no. 1 & 3, Chintamani Pride, Near City Pride Multiplex, Kothrud, Pune, Maharashtra 411038, Kothrud Karveroad, Pune, Pune, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 18.536616,
+    "lng": 73.8988097,
+    "formatted_address": "Murphies, Lane 8, Koregaon Park, Ghorpuri, Pune, Pune City, Pune District, Maharashtra, 411001, India"
   },
   {
     "Restaurant Name": "Dhaba Shaba",
@@ -1906,10 +1899,9 @@
     "URL": "https://www.instagram.com/p/DA71GAPytyL/?igsh=aXl3aTMyM3d2dnhi",
     "Visited": "Yes",
     "place_id": "331711665957",
-    "lat": 18.9317064,
-    "lng": 72.8319248,
-    "formatted_address": "Nandan Coffee, Homi Modi Street, Kala Ghoda, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400032, India",
-    "regeocoded_from_zomato": true
+    "lat": 18.922605,
+    "lng": 72.831281,
+    "formatted_address": "Olympia Coffee House, Shahid Bhagat Singh Marg, Bombay Colaba, Zone 1, Mumbai, Mumbai City, Maharashtra, 400039, India"
   },
   {
     "Restaurant Name": "Era",
@@ -2201,10 +2193,9 @@
     "URL": "https://www.instagram.com/reel/C32r0EcSIL-/?igsh=MTQxaGV6M2hva2s0cA==",
     "Visited": "No",
     "place_id": "330106861911",
-    "lat": 19.090209,
-    "lng": 72.830692,
-    "formatted_address": "Santacruz West, Zone 3, Mumbai, Mumbai City, Maharashtra, India",
-    "regeocoded_from_zomato": true
+    "lat": 19.054979,
+    "lng": 72.84022,
+    "formatted_address": "Bandra, Bandra A, Zone 3, Mumbai, Mumbai City, Maharashtra, India"
   },
   {
     "Restaurant Name": "La Panthera",

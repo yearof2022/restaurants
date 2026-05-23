@@ -38,9 +38,17 @@ HEADER = [
     "Rating",
     "Description",
     "URL",
+    "Zomato URL",
     "Address",
     "Image",
 ]
+
+
+def zomato_url(z: dict | None) -> str:
+    if not z:
+        return ""
+    res_id = z.get("res_id")
+    return f"https://www.zomato.com/r/{res_id}" if res_id else ""
 
 
 def load_credentials() -> Credentials:
@@ -88,8 +96,12 @@ def build_description(row: dict, z: dict | None) -> str:
                 zbits.append(f"{z['votes']} votes")
         if z.get("eta") and z.get("serviceable"):
             zbits.append(f"🛵 {z['eta']}")
-        if zbits:
-            parts.append("Zomato: " + " · ".join(zbits))
+        zurl = zomato_url(z)
+        if zbits or zurl:
+            line = "Zomato: " + " · ".join(zbits) if zbits else "Zomato"
+            if zurl:
+                line += f" — {zurl}"
+            parts.append(line)
 
     return "\n\n".join(parts)
 
@@ -109,6 +121,7 @@ def row_to_sheet_row(row: dict, zomato_lookup: dict[str, dict]) -> list:
         row.get("Rating", ""),
         build_description(row, z),
         row.get("URL", ""),
+        zomato_url(z),
         row.get("formatted_address", ""),
         (z or {}).get("image", "") or "",
     ]

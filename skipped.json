@@ -275,6 +275,28 @@
     "_skip_reason": "not_found"
   },
   {
+    "Restaurant Name": "TOIT, Pune",
+    "City": "Pune",
+    "Comment": "",
+    "Cuisine Type": "Bar",
+    "Price": "",
+    "Rating": "⭐⭐⭐⭐",
+    "URL": "",
+    "Visited": "Yes",
+    "_skip_reason": "not_found"
+  },
+  {
+    "Restaurant Name": "The Flourworks",
+    "City": "Pune",
+    "Comment": "",
+    "Cuisine Type": "Cafe",
+    "Price": "",
+    "Rating": "⭐⭐⭐",
+    "URL": "",
+    "Visited": "Yes",
+    "_skip_reason": "not_found"
+  },
+  {
     "Restaurant Name": "Penthouse",
     "City": "Pune",
     "Comment": "",
@@ -537,6 +559,83 @@
     "URL": "https://www.instagram.com/reel/DA039j4SMsv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     "Visited": "No",
     "_skip_reason": "non_venue"
+  },
+  {
+    "Restaurant Name": "Gaylord",
+    "City": "Mumbai",
+    "Comment": "",
+    "Cuisine Type": "Indian",
+    "Price": "",
+    "Rating": "⭐⭐⭐⭐",
+    "URL": "https://www.instagram.com/reel/C3NpoP5Shcy/?igsh=MWRvNHY4bnF2ODJhag==",
+    "Visited": "Yes",
+    "_skip_reason": "not_found"
+  },
+  {
+    "Restaurant Name": "Charlee, Bandra",
+    "City": "Mumbai",
+    "Comment": "Speakeasy Bars",
+    "Cuisine Type": "Bar",
+    "Price": "",
+    "Rating": "",
+    "URL": "https://www.instagram.com/reel/C32r0EcSIL-/?igsh=MTQxaGV6M2hva2s0cA==",
+    "Visited": "No",
+    "_skip_reason": "not_found"
+  },
+  {
+    "Restaurant Name": "La Panthera",
+    "City": "Mumbai",
+    "Comment": "",
+    "Cuisine Type": "",
+    "Price": "",
+    "Rating": "",
+    "URL": "https://www.instagram.com/reel/C3mp3F7vp2d/?igsh=MTYyNmdheGd6OHVhdw==",
+    "Visited": "No",
+    "_skip_reason": "not_found"
+  },
+  {
+    "Restaurant Name": "Crazy Craft",
+    "City": "Mumbai",
+    "Comment": "",
+    "Cuisine Type": "",
+    "Price": "",
+    "Rating": "",
+    "URL": "https://www.instagram.com/reel/C2M5K2CPBP9/?igsh=MWhyMzVzcmtvZHox",
+    "Visited": "Yes",
+    "_skip_reason": "not_found"
+  },
+  {
+    "Restaurant Name": "Mag St. Cafe, Colaba",
+    "City": "Mumbai",
+    "Comment": "",
+    "Cuisine Type": "Cafe",
+    "Price": "",
+    "Rating": "",
+    "URL": "https://www.instagram.com/reel/C3nEUn-vmhl/?igsh=MWplMmhubHQ4YzFwMg==",
+    "Visited": "No",
+    "_skip_reason": "not_found"
+  },
+  {
+    "Restaurant Name": "Tori",
+    "City": "Mumbai",
+    "Comment": "",
+    "Cuisine Type": "",
+    "Price": "",
+    "Rating": "",
+    "URL": "https://www.instagram.com/p/C4rseXsy7nK/?igsh=MWEwZjg3M2NrNWc3bA==",
+    "Visited": "No",
+    "_skip_reason": "not_found"
+  },
+  {
+    "Restaurant Name": "Napoli by Shatranj",
+    "City": "Mumbai",
+    "Comment": "",
+    "Cuisine Type": "",
+    "Price": "",
+    "Rating": "",
+    "URL": "https://www.instagram.com/reel/C4K6nRtrg1g/?igsh=aXExdW1mbmZ2YXdj",
+    "Visited": "No",
+    "_skip_reason": "not_found"
   },
   {
     "Restaurant Name": "Megumi",
